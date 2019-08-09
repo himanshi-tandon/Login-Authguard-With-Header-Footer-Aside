@@ -3,6 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
+  APIAuthorizationURL: 'http://hprefuelwebapi.commdel.com/HPCL.HPRefuel.AuthorizationServer.API/oauth2/token',
   production: false
 };
 
